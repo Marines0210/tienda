@@ -13,3 +13,7 @@
   width: 100%;
   height: 2.5rem;            /* altura de pie de página */
 }
+
+ th, td {
+  border-color: #96D4D4;
+}
